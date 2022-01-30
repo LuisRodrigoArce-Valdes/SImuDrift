@@ -4,6 +4,8 @@ By: Luis Rodrigo Arce-Valdés (01-30-22)
 ### Introduction
 SimuDrift.py is a simple genetic drift simulator python 3.0 script. This program creates plots of simulations of changes in allelic frequencies across generations as a function of initial effective population size and initial allelic frequencies. The program assumes a Fisher-Wright-like closed population of haploid organisms with non-overlapping generations, mutations or natural selection.
 
+![](./Example.png)
+
 ### Instalation
 Simply download the `SimuDrift.py` script and run it via a Unix terminal using:
 ```
