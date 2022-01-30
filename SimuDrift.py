@@ -4,9 +4,9 @@
 Created on Fri Jan 29 21:26:09 2022
 @author: Luis Rodrigo Arce-Valdés
 
-SimuDrift is a simple genetic flow simulation I did as a way to practice python.
-This program creates simulated plots of changes in allelic frequencies in generations as a function of effective population size.
-The program assumes a Fisher-Wright like population of haploid organisms with non-overlapping generations, no gene-flow, mutation or selection towards one allele.
+SimuDrift.py is a simple genetic drift simulator python 3.0 script.
+This program creates plots of simulations of changes in allelic frequencies across generations as a function of initial effective population size and initial allelic frequencies.
+The program assumes a Fisher-Wright-like closed population of haploid organisms with non-overlapping generations, mutations or natural selection.
 """
 
 # Importing modules
